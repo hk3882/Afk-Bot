@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "megapvp-47AG.aternos.me",
+    "port": 16934,
+    "version": "1.21.4"
   },
 
   "position": {
